@@ -1,3 +1,5 @@
+<img width="100%" height="auto" src="https://www.softwebsolutions.com/wp-content/uploads/2020/10/flutter-app-developer.jpg" />
+
 <h1 align="center">Hi 👋, I'm Andrew Spourgeon</h1>
 <h3 align="center">A passionate Flutter and Java developer from India</h3>
 
