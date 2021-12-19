@@ -47,10 +47,10 @@
 <p align="left">
 
 <a href="https://twitter.com/aspourgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aspourgeon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrew spourgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew spourgeon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/andrew spourgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andrew spourgeon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrew-spourgeon-829458205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew spourgeon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15983194/andrew-spourgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andrew spourgeon" height="30" width="40" /></a>
   <a href="https://dev.to/andrewspourgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrewspourgeon" height="30" width="40" /></a>
-<a href="https://fb.com/andrew spourgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrew spourgeon" height="30" width="40" /></a>
+<a href="https://fb.com/100008269328597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrew spourgeon" height="30" width="40" /></a>
 <a href="https://instagram.com/andrew_spourgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrew_spourgeon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClu8x1EUxzC4O6mPeD7bQ0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andrew spourgeon" height="30" width="40" /></a>
 </p>
